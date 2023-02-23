@@ -1,0 +1,41 @@
+.divcenter {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .centertext {
+    text-align: center;
+}
+.inputcenter {
+  text-align: center;
+}
+
+.zealandtheme{
+    background-color: #fff387;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif
+}
+.toptekst{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    
+}
+.cntbtn{
+    background-color:black;
+    color:white;
+    outline-color: black;
+}
+.cntbtn:hover{
+    background-color:blue;
+    color:white;
+    outline-color: black;
+}
+.card-header:hover {
+    background-color: #e9ecef;
+  }
+
+  .myfont{
+    font-family: Arial, Helvetica, sans-serif
+  }
